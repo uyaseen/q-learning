@@ -1,5 +1,7 @@
 # Q-Learning-Simulation
 
+Author: Usama Yaseen
+
 I worked on this project as a part of my inter-disciplinary project at Technical University of Munich. Due to permission issue I cannot share the portion of code implementing Central Pattern Generator (CPG), therefore that portion is being cover-up by simulating dummy motion patterns from dummy sensor values which are then passed to the Q-learning code, which btw doesn't distinguish between dummy motion patterns or the real motion patterns. 
 
 Abstract:
